@@ -1,10 +1,28 @@
 div#box {
-    width: 40%;
-    max-width: 800px;
+    /* width: 40%; */
+    max-width: 600px;
     min-width: 200px;
-    margin: 0px auto;
+    margin: 20px auto;
 }
 
 h1 {
     text-align: center;
+}
+
+div#lyrics {
+    text-align: center;
+}
+
+.back {
+    float: right;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: blue;
+    text-decoration: underline;
 }
